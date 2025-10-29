@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Bola de Futebol Pro",
+    "brand": "Penalty",
+    "category": "Futebol",
+    "price": 149.9,
+    "oldPrice": 199.9,
+    "image": "https://images.unsplash.com/photo-1543326727-cf6c39e8f04e?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Camisa Dry Fit",
+    "brand": "Nike",
+    "category": "Corrida",
+    "price": 89.9,
+    "image": "https://images.unsplash.com/photo-1520975682031-a1e9c1a1d3be?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "Tênis de Corrida Aero",
+    "brand": "Adidas",
+    "category": "Corrida",
+    "price": 399.9,
+    "oldPrice": 499.9,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "Luvas de Treino Grip",
+    "brand": "Everlast",
+    "category": "Academia",
+    "price": 59.9,
+    "image": "https://images.unsplash.com/photo-1519837855565-717b3f265b1c?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "title": "Garrafa Térmica 750ml",
+    "brand": "CamelBak",
+    "category": "Acessórios",
+    "price": 79.9,
+    "image": "https://images.unsplash.com/photo-1543946602-a0fce8117694?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": "Shorts Performance",
+    "brand": "Asics",
+    "category": "Corrida",
+    "price": 119.9,
+    "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "title": "Mochila Esportiva 28L",
+    "brand": "Puma",
+    "category": "Acessórios",
+    "price": 159.9,
+    "image": "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "title": "Halter 10kg (par)",
+    "brand": "Movement",
+    "category": "Academia",
+    "price": 229.9,
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1200&auto=format&fit=crop"
+  }
+]
